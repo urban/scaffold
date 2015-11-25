@@ -1,0 +1,11 @@
+[ignore]
+.*/lib/.*
+.*/nsp/node_modules/.*
+.*/babel-register/.*
+
+[include]
+
+[libs]
+./interfaces/
+
+[options]

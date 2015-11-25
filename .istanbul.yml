@@ -1,0 +1,6 @@
+instrumentation:
+  excludes: ['./test/*']
+
+reporting:
+  reports: ['text', 'html']
+

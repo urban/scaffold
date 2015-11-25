@@ -1,0 +1,10 @@
+{
+  "stage": 0,
+  "loose": "all",
+  "optional": ["runtime"],
+  "env": {
+    "test": {
+      "plugins": ["rewire"]
+    }
+  }
+}
